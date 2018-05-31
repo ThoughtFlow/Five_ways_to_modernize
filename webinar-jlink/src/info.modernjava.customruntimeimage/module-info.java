@@ -1,0 +1,2 @@
+module info.modernjava.customruntimeimage {
+}
