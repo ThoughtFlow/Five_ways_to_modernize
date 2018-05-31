@@ -1,4 +1,4 @@
 #!/bin/bash   
 
 #run
-jlink//bin/run
+jlink/bin/run
